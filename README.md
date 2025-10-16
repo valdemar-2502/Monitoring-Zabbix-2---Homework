@@ -232,18 +232,13 @@
 
 ### <ins>SCREENSHORTS</ins>
 
-![monitoring_hosts](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/2.1.png)
+![monitoring_hosts](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/11.png)
 
-![configuration_hosts](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/2.2.png)
+![configuration_hosts](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/12.png)
 
-![ShkutovIV-1](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/2.3.png)
+![KadancevV-1](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/13.png)
 
-![ShkutovIV-2](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/2.4.png)
-
-![apply_and_check](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/2.5.png)
-
-![Latest Data](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/2.6.png)
-
+![KadancevV-2](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/14.png)
 
 ---
 
@@ -264,10 +259,10 @@
 
 
 ---
-### My_dashboard выводит показания CPU и GPU hosts ShkutovIV-1 (192.168.1.10) и ShkutovIV-2 (192.168.1.5)
+### Task 4 выводит показания CPU и RAM hosts KadancevV-1 и KadancevV-2 
 
 
-![My_dashboard](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/4.1.png)
+![Task4](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/4.1.png)
 
 
 ---
