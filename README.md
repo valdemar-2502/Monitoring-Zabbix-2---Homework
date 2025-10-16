@@ -131,19 +131,25 @@
 ### <ins>SCREENSHORTS</ins>
 
 
-![items](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.1.png)
+![items](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/1.png)
 
-![items_CPU](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.2.png)
+![items_CPU](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/2.png)
 
-![items_RAM](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.3.png)
+![items_RAM](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/3.png)
 
-![Latest Data_server](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.4.png)
+![Latest Data_server](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/4.png)
 
-![Latest Data_agent](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.5.png)
+![Latest Data_agent](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/5.png)
 
-![graph_server](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.6.png)
+![graph_server](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/6.png)
 
-![graph_agent](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/1.7.png)
+![graph_agent](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/7.png)
+
+![graph_agent](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/8.png)
+
+![graph_agent](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/9.png)
+
+![graph_agent](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/10.png)
 
 ---
 
