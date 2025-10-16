@@ -262,7 +262,7 @@
 ### Task 4 выводит показания CPU и RAM hosts KadancevV-1 и KadancevV-2 
 
 
-![Task4](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/4.1.png)
+![Task4](https://github.com/valdemar-2502/Monitoring-Zabbix-2---Homework/blob/main/15.png)
 
 
 ---
