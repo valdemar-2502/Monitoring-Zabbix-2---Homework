@@ -203,7 +203,7 @@
      
      - Для каждого хоста:
      
-          Имя: ShkutovIV-1 для первой машины и ShkutovIV-2 для второй
+          Имя: KadancevV-1 для первой машины и KadancevV-2 для второй
           
           DNS Name или IP Address: Добавить IP-адрес
           
